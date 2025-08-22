@@ -1,1 +1,18 @@
-{"addons":{}}
+{
+  "addons": {
+    "task-juicer@thomas-mardis": {
+      "updates": [
+        {
+          "version": "1.3.1",
+          "update_link": "https://thomas-mardis.github.io/task_juicer/dist/task-juicer-1.3.1.xpi",
+          "update_hash": "sha256:ffcf921386ad36abb44d21fe8ad4ed925ca0b4d0f39d11545e02181fec9423f7",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "109.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
